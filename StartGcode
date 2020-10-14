@@ -1,9 +1,8 @@
-; Ender 3 Custom Start G-code
 G92 E0 ; Reset Extruder
 
 
-M140 S70; Set Heatbed Temperature
-M190 S70;Wait for Heatbed Temperature
+M140 S60; Set Heatbed Temperature
+M190 S60;Wait for Heatbed Temperature
 M104 S160; Start Warming Extruder to 160
 
 G28 ; Home all axes
