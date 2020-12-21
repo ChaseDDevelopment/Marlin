@@ -5,7 +5,7 @@ This is Marlin 3D printer firmware that has been modified to Work with a BigTree
 
 Extruder steps (M92 E101.08 - To set):
 
-E steps are: 101.08
+E steps are: 103.14
 
 Linear Advance K value:
 
